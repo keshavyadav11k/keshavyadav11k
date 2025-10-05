@@ -44,6 +44,16 @@ Executed full-scale data extraction, transformation, and validation for Workday 
 
 ---
 
+## 📊 GitHub Stats
+
+![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshavyadav11k&show_icons=true&theme=tokyonight)
+
+---
+
+✨ Always learning, experimenting, and sharing projects that make tech simpler!
+
+---
+
 ### 📫 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/keshav-yadav](https://www.linkedin.com/in/keshav-yadav-483487156/)
