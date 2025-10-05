@@ -1,4 +1,4 @@
-# Hi there, I'm Keshav Kumar Yadav 👋
+# Hi there, I'm Keshav Yadav 👋
 
 ![Hi GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2M4bTAzNTlmNWtzdzM3bHMybHc5NGkzdXBna3huanF4M3k2b3YyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VoJqOxw0Zh36Vm8uDD/giphy.gif)
 
